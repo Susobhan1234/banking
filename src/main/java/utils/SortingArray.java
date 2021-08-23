@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class SortingArray {
     public static void main (String [] args)
     {
-        /*---------------Int-----------------*/
+        /*---------------For sort int array-----------------*/
         int [] intArray = new int [3];
         intArray [0] = 5;
         intArray [1] = 4;
@@ -16,7 +16,7 @@ public class SortingArray {
             System.out.println(intArray[loopCounter2]);
         }
 
-        /*---------------Double-----------------*/
+        /*---------------For sort double array-----------------*/
         double [] doubleArr = new double [3];
         doubleArr [0] = 1.2;
         doubleArr [1] = 0.2;
@@ -28,7 +28,7 @@ public class SortingArray {
             System.out.println(doubleArr[loopCounter5]);
         }
 
-        /*---------------Char-----------------*/
+        /*---------------For sort char array-----------------*/
         char [] charArr = new char [3];
         charArr [0] = 'a';
         charArr [1] = 'A';
@@ -40,7 +40,7 @@ public class SortingArray {
             System.out.println(charArr[loopCounter6]);
         }
 
-        /*---------------String-----------------*/
+        /*---------------For sort string array-----------------*/
         String [] stringArr = new String [4];
         stringArr [0] = "Susobhan";
         stringArr [1] = "masanta";
