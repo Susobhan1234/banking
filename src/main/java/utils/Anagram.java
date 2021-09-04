@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Anagram {
     static boolean isAnagram(String a, String b)
     {
+        // gsg
         // Complete the function
         int [] intArr1 = new int[26];
         int [] intArr2 = new int[26];
