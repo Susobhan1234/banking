@@ -6,6 +6,7 @@ class BigDecimalSorting
     public static void main(String []args)
     {
         //Input
+        // Input
         Scanner sc = new Scanner (System.in);
         int n = sc.nextInt();
         String [] s = new String[n+2];
